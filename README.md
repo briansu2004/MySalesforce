@@ -30,11 +30,30 @@ Completed an end-to-end Customer 360 solution for Manulife
 ## New keywords
 
 - Aura
+
+Aura is a framework for developing apps for mobile and desktop devices. In existence since 2013, Aura enables developers to build apps that are independent of data that resides in Salesforce, so development can be less disruptive to day-to-day users.
+
 - Lightning Web Component
+
+Lightning Components are a user interface (UI) framework that is used to create applications for desktop and mobile technologies. Salesforce Admins deploy these components to construct single-page web applications that provide an end-to-end experience on the platform for a variety of functions.
+
 - Apex
+
+Apex is a strongly typed, object-oriented programming language that allows developers to execute flow and transaction control statements on Salesforce servers in conjunction with calls to the API.
+
 - Visualforce
+
+Visualforce is a framework that allows developers to build sophisticated, custom user interfaces that can be hosted natively on the Lightning platform. The Visualforce framework includes a tag-based markup language, similar to HTML, and a set of server-side "standard controllers" that make basic database operations, such as queries and saves, very simple to perform.
+
 - Salesforce API
+
+  - SOAP API
+  - REST API
+  - Bulk API
+
 - Process Builder
+
+Process Builder is an automated Salesforce tool that allows you to control the order of actions or evaluate the criteria for a record. Process Builder gives you the ability to use straightforward 'If/Then' logic to easily add automation to your Salesforce environment.
 
 ## TrailBlazer
 
